@@ -1,5 +1,6 @@
 # **Voron Trident 400mm**
 Voron Trident with a 400mm bed size and a 4040 extrusion frame
+**Note:** the CAD is incomplete.  The work I've put together is only the work specific to this build. All other files can be sourced directly from the official [Voron Trident site](https://github.com/VoronDesign/Voron-Trident/tree/main).
 
 ### **Features:**
 * 400mm^2 x 300mm
